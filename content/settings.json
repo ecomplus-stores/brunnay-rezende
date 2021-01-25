@@ -1,5 +1,4 @@
 {
-  "store_id": 1112,
   "domain": "brunnayrezende.com.br",
   "currency_symbol": "R$",
   "primary_color": "#767474",
@@ -8,16 +7,17 @@
     "custom": "_"
   },
   "bg_color": "#f1f1f1",
-  "logo": "/img/uploads/logo-site.png",
+  "logo": "/img/uploads/nova-logo-brunnay-rezende.png",
   "name": "Brunnay Rezende Moda Feminina",
   "short_name": "Brunnay Rezende",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/logo-site.png",
+  "favicon": "/img/uploads/nova-logo-brunnay-rezende.png",
   "country_code": "BR",
   "secondary_color": "#fdbeb4",
-  "icon": "/img/uploads/logo-site.png",
+  "icon": "/img/uploads/nova-logo-brunnay-rezende.png",
+  "store_id": 1112,
   "description": "A marca Brunnay Rezende nasceu a 15 anos, com a junção dos nomes das minhas filhas Nayara Jordanna e Brunna.  Brunnay Rezende tem seu olhar voltado para todas mulheres evangélicas e sonhadoras.\n",
-  "large_icon": "/img/uploads/logo-site.png"
+  "large_icon": "/img/uploads/nova-logo-brunnay-rezende.png"
 }
