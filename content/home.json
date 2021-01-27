@@ -27,9 +27,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": null,
-      "title": "MODA EVANGÉLICA CLÁSSICA E EXCLUSIVA"
+      "title": "MODA EVANGÉLICA CLÁSSICA E EXCLUSIVA",
+      "sort": "news",
+      "limit": 8
     },
     {
       "type": "banners-grid",
