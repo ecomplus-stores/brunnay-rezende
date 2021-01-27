@@ -9,12 +9,12 @@
       "enabled": true
     },
     {
-      "type": "related-products",
-      "title": "Produtos relacionados"
-    },
-    {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "title": "ALGUMAS SUGESTÕES PARA VOCÊ",
+      "sort": "news"
     },
     {
       "type": "product-description",
