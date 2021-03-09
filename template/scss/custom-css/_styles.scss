@@ -116,19 +116,6 @@
 #header {
   border: none;
 }
-.product__prices .prices__compare small {
-  text-transform: none !important;
-  padding-right: .2rem;
-}
-.product__prices .prices__compare small:last-child {
-  display: none;
-}
-.product__prices .prices__value::before {
-  content: 'Por ';
-  font-weight: 400 !important;
-  color: #000 !important;
-  font-size: var(--font-size) !important;
-}
 .top-bar .whatsapp-link {
   display: flex !important;
   justify-content: flex-end;
