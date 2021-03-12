@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8ee4f92be96d602a6f007f61d07d7ae1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.638b12a56e4f2540f3bdcbb916ebb3cc.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.75f99e72aa197533680e32b52d829635.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3e6fcdc708c307d2fc6303d2cd0cf0e4.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.61633c7e29f678ddc36b13eac8c93d2c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Brunnay Rezende Moda Feminina",
+  "short_name": "Brunnay Rezende",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A marca Brunnay Rezende nasceu a 15 anos, com a junção dos nomes das minhas filhas Nayara Jordanna e Brunna.  Brunnay Rezende tem seu olhar voltado para todas mulheres evangélicas e sonhadoras.\n",
+  "background_color": "#f1f1f1",
+  "theme_color": "#767474"
+}
