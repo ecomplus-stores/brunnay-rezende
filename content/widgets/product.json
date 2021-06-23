@@ -4,6 +4,8 @@
   "desktopOnly": false,
   "options": {
     "buyText": "ADICIONAR NA SACOLA",
-    "buy": ""
+    "buy": "",
+    "lowQuantityToWarn": 12,
+    "maxVariationOptionsBtns": 6
   }
 }
