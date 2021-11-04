@@ -7,6 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-11-04T10:38:41.666Z",
+          "end": "2022-12-07T10:38:41.743Z",
+          "img": "/img/uploads/capa-ternura.png",
+          "mobile_img": "/img/uploads/1.png"
+        },
+        {
           "start": "2021-09-24T10:57:36.520Z",
           "end": "2024-01-01T10:57:36.643Z",
           "img": "/img/uploads/capa-borboletas-2-.png",
