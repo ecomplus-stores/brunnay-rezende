@@ -5,6 +5,8 @@
   "options": {
     "buyText": "ADICIONAR NA SACOLA",
     "buy": "",
+    "strHasQuantitySelector": "_",
+    "strHasPromotionTimer": "_",
     "lowQuantityToWarn": 12,
     "maxVariationOptionsBtns": 6
   }
