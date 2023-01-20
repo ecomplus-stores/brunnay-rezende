@@ -7,6 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2023-01-20T12:30:58.641Z",
+          "end": "",
+          "img": "/img/uploads/capa-instagram-e-site.png",
+          "mobile_img": "/img/uploads/capa.png"
+        },
+        {
           "start": "2022-12-09T17:02:32.828Z",
           "end": "2023-02-02T11:48:10.574Z",
           "mobile_img": "/img/uploads/1.png",
