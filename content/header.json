@@ -14,7 +14,11 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/colecoes?COLEÇÕES",
+      "/vestidos?VESTIDOS",
+      "/mais-vendidos?Mais Vendidos"
+    ],
     "random": 6,
     "full_width": false
   },
