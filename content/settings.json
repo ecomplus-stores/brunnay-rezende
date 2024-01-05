@@ -1,5 +1,4 @@
 {
-  "repository": "ecomplus-stores/brunnay-rezende",
   "domain": "brunnayrezende.com.br",
   "currency_symbol": "R$",
   "primary_color": "#767474",
@@ -8,17 +7,20 @@
     "custom": "_"
   },
   "bg_color": "#f1f1f1",
-  "logo": "/img/uploads/nova-logo-brunnay-rezende.png",
+  "repository": "ecomplus-stores/brunnay-rezende",
+  "logo": "/img/uploads/flavia-rezende-1.png",
   "name": "Brunnay Rezende Moda Feminina",
   "short_name": "Brunnay Rezende",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/nova-logo-brunnay-rezende.png",
+  "font_family": "_",
+  "favicon": "/img/uploads/flavia-rezende-1.png",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#cbacaa",
-  "icon": "/img/uploads/nova-logo-brunnay-rezende.png",
+  "icon": "/img/uploads/flavia-rezende-1.png",
   "store_id": 1112,
   "description": "A marca Brunnay Rezende nasceu a 15 anos, com a junção dos nomes das minhas filhas Nayara Jordanna e Brunna.  Brunnay Rezende tem seu olhar voltado para todas mulheres evangélicas e sonhadoras.\n",
-  "large_icon": "/img/uploads/nova-logo-brunnay-rezende.png"
+  "large_icon": "/img/uploads/flavia-rezende-1.png"
 }
