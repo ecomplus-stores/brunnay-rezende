@@ -10,8 +10,13 @@
           "start": "2024-02-16T15:00:20.208Z",
           "end": "",
           "img": "/img/uploads/capa-site-4-1-.png",
-          "mobile_img": "/img/uploads/capa-site-5-.png",
+          "mobile_img": "",
           "link": "https://www.brunnayrezende.com.br/tempo-de-festa"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/capa-site-5-.png"
         }
       ],
       "full_width": true
@@ -64,6 +69,11 @@
     {
       "type": "custom-html",
       "html": "<script src=\"https://www.sowecms.com/demos/InstagramFeed/dist/InstagramFeed.min.js\"></script>\n<div id=\"instagram-feed\" class=\"instagram_feed\"></div>\n<script>\n    (function(){\n        new InstagramFeed({\n            'username': 'brunnayrezende',\n            'container': document.getElementById(\"instagram-feed\"),\n            'display_profile': false,\n            'display_biography': false,\n            'display_igtv': false,\n            'display_gallery': true,\n            'get_raw_json': false,\n            'callback': null,\n            'styling': true,\n            'items': 3,\n            'items_per_row': 3,\n            'margin': 1 \n        });\n    })();\n</script>"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
