@@ -37,15 +37,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/capa-todos-os-vestidos-1-.png",
+          "img": "/img/uploads/vestidos.jpg",
           "link": "https://www.brunnayrezende.com.br/vestidos"
         },
         {
-          "img": "/img/uploads/capa-todos-os-vestidos-1-.png",
+          "img": "/img/uploads/vestidos-1300-x-750-px-3.png",
           "link": "https://www.brunnayrezende.com.br/vestidos-justos"
         },
         {
-          "img": "/img/uploads/capa-todos-os-vestidos-1-.png",
+          "img": "/img/uploads/vestidos-1300-x-750-px-2.png",
           "link": "https://www.brunnayrezende.com.br/vestidos-fluidos"
         }
       ]
