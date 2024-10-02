@@ -6,7 +6,10 @@
     },
     {
       "type": "product-block",
-      "enabled": true
+      "enabled": true,
+      "size_guide": {
+        "image": "/img/uploads/e51097fb-ad84-4f98-8b11-37a3eb368b82.jfif"
+      }
     },
     {
       "type": "collection-shelf",
