@@ -15,13 +15,14 @@
   },
   "categories_list": {
     "featured": [
-      "/colecoes?COLEÇÕES",
-      "/vestidos?VESTIDOS",
+      "/colecao-rlexos?Coleção Reflexos",
+      "/colecao-rlexos?Coleção Reflexos",
       "/mais-vendidos?Mais Vendidos"
     ],
     "random": 6,
     "full_width": false
   },
   "search_input": true,
-  "popup": "/img/uploads/capa-principal-computador-.png"
+  "popup": "/img/uploads/capa-principal-computador-.png",
+  "centralized_logo": true
 }
