@@ -7,21 +7,10 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2024-10-07T13:00:15.687Z",
+          "start": "",
           "end": "",
           "img": "/img/uploads/capa-principal-computador-.png",
-          "mobile_img": "/img/uploads/capa-principal-celular-.png",
-          "link": "https://www.instagram.com/reel/DAi0y5-veH7/?igsh=aWNyZnltYXZjbTZs"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/capa-site-5-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/capa-secunda-ria-computador-.png"
+          "mobile_img": "/img/uploads/capa-site-1300-x-1500-px-1080-x-1900-px-.png.png"
         }
       ],
       "full_width": true
