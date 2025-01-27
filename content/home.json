@@ -68,7 +68,15 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2025-01-24-at-16.26.47.jpeg",
+          "mobile_img": "/img/uploads/whatsapp-image-2025-01-24-at-16.28.43.jpeg"
+        }
+      ]
     }
   ]
 }
