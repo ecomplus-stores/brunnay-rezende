@@ -3,6 +3,19 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2025-01-27T20:06:28.526Z",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2025-01-24-at-16.26.47.jpeg",
+          "mobile_img": "/img/uploads/whatsapp-image-2025-01-24-at-16.28.43.jpeg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": false
     },
@@ -51,19 +64,6 @@
     {
       "type": "custom-html",
       "html": "<script src=\"https://www.sowecms.com/demos/InstagramFeed/dist/InstagramFeed.min.js\"></script>\n<div id=\"instagram-feed\" class=\"instagram_feed\"></div>\n<script>\n    (function(){\n        new InstagramFeed({\n            'username': 'brunnayrezende',\n            'container': document.getElementById(\"instagram-feed\"),\n            'display_profile': false,\n            'display_biography': false,\n            'display_igtv': false,\n            'display_gallery': true,\n            'get_raw_json': false,\n            'callback': null,\n            'styling': true,\n            'items': 3,\n            'items_per_row': 3,\n            'margin': 1 \n        });\n    })();\n</script>"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2025-01-27T20:06:28.526Z",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2025-01-24-at-16.26.47.jpeg",
-          "mobile_img": "/img/uploads/whatsapp-image-2025-01-24-at-16.28.43.jpeg"
-        }
-      ]
     }
   ]
 }
