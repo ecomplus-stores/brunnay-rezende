@@ -16,13 +16,13 @@
   "categories_list": {
     "featured": [
       "/colecao-alma-classica?Coleção Alma Clássica",
-      "/colecao-rlexos?Coleção Reflexos",
-      "/mais-vendidos?Mais Vendidos"
+      "/colecao-alma-classica?Coleção Alma Clássica",
+      "/colecoes?COLEÇÕES"
     ],
-    "random": 7,
+    "random": 5,
     "full_width": false
   },
   "search_input": true,
-  "popup": "/img/uploads/img_6418.png",
+  "popup": "/img/uploads/img_6422.png",
   "centralized_logo": true
 }
