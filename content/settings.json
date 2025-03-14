@@ -1,26 +1,26 @@
 {
   "domain": "flaviarezende.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#767474",
+  "primary_color": "#c45c5c",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#f1f1f1",
+  "bg_color": "#f8e6e6",
   "repository": "ecomplus-stores/brunnay-rezende",
-  "logo": "/img/uploads/flavia-rezende-1.png",
+  "logo": "/img/uploads/img_6335.png",
   "name": "Flávia Rezende Moda Feminina",
   "short_name": "Flávia Rezende",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/flavia-rezende-1.png",
+  "favicon": "/img/uploads/img_6335.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#cbacaa",
-  "icon": "/img/uploads/flavia-rezende-1.png",
+  "secondary_color": "#ffeff3",
+  "icon": "/img/uploads/img_6335.png",
   "store_id": 1112,
   "description": "A marca Brunnay Rezende nasceu há 18 anos, com a junção dos nomes das minhas filhas Nayara Jordanna e Brunna.  Brunnay Rezende tem seu olhar voltado para todas mulheres evangélicas e sonhadoras. \nE hoje, leva o meu nome Flávia Rezende, diretora criativa.\n",
-  "large_icon": "/img/uploads/flavia-rezende-1.png"
+  "large_icon": "/img/uploads/img_6335.png"
 }
