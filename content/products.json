@@ -17,7 +17,9 @@
       "limit": 8,
       "page": 1,
       "title": "ALGUMAS SUGESTÕES PARA VOCÊ",
-      "sort": "news"
+      "sort": "news",
+      "collection_id": "67d4708753d3dd5b9c9a6f9b:categories:Coleção Alma Clássica:/colecao-alma-classica",
+      "autoplay": 9000
     },
     {
       "type": "product-description",
