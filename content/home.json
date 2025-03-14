@@ -22,10 +22,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "6037eaa99332dd6865dec1bb:categories:COLEÇÕES:/colecoes",
+      "collection_id": "67d4708753d3dd5b9c9a6f9b:categories:Coleção Alma Clássica:/colecao-alma-classica",
       "title": "MODA EVANGÉLICA CLÁSSICA E EXCLUSIVA",
       "sort": "news",
-      "limit": 8
+      "limit": 8,
+      "autoplay": 12000
     },
     {
       "type": "banners-grid",
