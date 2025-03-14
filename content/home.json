@@ -50,7 +50,9 @@
       "shuffle": true,
       "sort": "news",
       "title": "SELECIONAMOS ALGUNS MODELOS PARA VOCÊ",
-      "collection_id": null
+      "collection_id": "67d4773653d3dd5b9c9a7d6c:collections:Alma Clássica:/alma-classica",
+      "autoplay": 6000,
+      "page": ""
     },
     {
       "type": "banners-grid",
