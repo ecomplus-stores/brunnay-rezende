@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "SEJA UMA REVENDEDORA FLÁVIA REZENDE",
-    "link": "https://wa.me/5562981772559"
+    "link": "https://wa.me/5562981772559",
+    "background": "#c06262",
+    "color": "#ea7f7f"
   },
   "contacts_stripe": {
     "pages": [
@@ -15,8 +17,8 @@
   },
   "categories_list": {
     "featured": [
-      "/colecao-alma-classica?Coleção Alma Clássica",
-      "/colecao-alma-classica?Coleção Alma Clássica",
+      "/colecoes?COLEÇÕES",
+      "/colecoes?COLEÇÕES",
       "/colecoes?COLEÇÕES"
     ],
     "random": 5,
