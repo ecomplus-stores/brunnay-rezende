@@ -38,16 +38,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/img_6422.png",
-          "link": "https://www.instagram.com/reel/DAeWvkSvRqY/?igsh=MWQ4a3FoMWlrbHBw"
+          "img": "/img/uploads/capa-site-mobile.png",
+          "link": "https://www.instagram.com/reel/DAeWvkSvRqY/?igsh=MWQ4a3FoMWlrbHBw",
+          "mobile_img": "/img/uploads/capa-site-mobile.png"
         },
         {
-          "img": "/img/uploads/img_6431-1-.png",
-          "link": "https://www.instagram.com/reel/DG1ARz_PMo3/?igsh=MXJsMG5tb2llem51bA=="
+          "img": "/img/uploads/capas-site-shapes-1.png",
+          "link": "https://www.instagram.com/reel/DG1ARz_PMo3/?igsh=MXJsMG5tb2llem51bA==",
+          "mobile_img": "/img/uploads/capas-site-shapes-1.png"
         },
         {
-          "img": "/img/uploads/img_6432.png",
-          "link": "https://www.instagram.com/reel/DHLuW4NpYVe/?igsh=NDU4MWUwb28zZXF1"
+          "img": "/img/uploads/capas-site-shapes-2.png",
+          "link": "https://www.instagram.com/reel/DHLuW4NpYVe/?igsh=NDU4MWUwb28zZXF1",
+          "mobile_img": "/img/uploads/capas-site-shapes-2.png"
         }
       ]
     },
@@ -56,7 +59,7 @@
       "shuffle": true,
       "sort": "news",
       "title": "SELECIONAMOS ALGUNS MODELOS PARA VOCÊ",
-      "collection_id": "67d4773653d3dd5b9c9a7d6c:collections:Alma Clássica:/alma-classica",
+      "collection_id": "67fd4dc5ef51eb1c90d05f6f:categories:Coleção Herança de Amor:/colecao-heranca-de-amor",
       "autoplay": 6000,
       "page": ""
     },
